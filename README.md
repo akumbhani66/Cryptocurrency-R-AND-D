@@ -9,7 +9,7 @@ It’s the first example of a growing category of money known as cryptocurrency.
 
 * Bitcoin Transactions : [Transaction flow](https://www.coindesk.com/information/how-do-bitcoin-transactions-work/)
 
-## 2.LiteCoin:
+## 2. LiteCoin:
 
 In 2009, Satoshi Nakamoto launched bitcoin as the world's first cryptocurrency. The code is open source, which means it can be modified by anyone and freely used for other projects. Many cryptocurrencies have launched with modified versions of this code, with varying levels of success.
 
@@ -17,7 +17,7 @@ Litecoin was announced in 2011 with the goal of being the 'silver' to bitcoin's 
 
 * Source : [coindesk](https://www.coindesk.com/information/comparing-litecoin-bitcoin/)
 
-## 3.Dash :
+## 3. Dash :
 
 Dash ranks behind Bitcoin as the 6th biggest currency in terms of total market capitalization.
 
@@ -44,9 +44,6 @@ Unlike Bitcoin, where you need to take extra steps to achieve anonymity, Monero 
 As a side effect of anonymous and untraceable transactions, Monero is more fungible than Bitcoin. Fungible simply means that you can’t tell apart one coin from the next. Bitcoins are subject to being tainted. For instance, if a particular exchange has been hacked, or funds are stolen, the hacked or stolen Bitcoins can be tracked and subsequently blacklisted by exchanges or vendors. This can make a percentage of Bitcoins unspendable, which is not ideal for a digital representation of cash. Monero’s inherent untraceability makes this a non-issue.
 
 * Source : [coincentral](https://coincentral.com/monero-vs-bitcoin/)
-
-* Bitwala => [API documentation for node client](https://github.com/bitwala/api-node-client)
-
 
 > [Top 7 cryptocurrencies of 2017](https://www.coindesk.com/not-just-bitcoin-the-top-7-cryptocurrencies-all-gained-in-2016/)
 
