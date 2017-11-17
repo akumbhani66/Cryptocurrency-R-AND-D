@@ -6,7 +6,6 @@ Bitcoin is a form of digital currency, created and held electronically. No one c
 It’s the first example of a growing category of money known as cryptocurrency.
 
 Platform : [Bitwala](https://www.bitwala.com/transfers)
-Source : [coindesk](https://www.coindesk.com/information/what-is-bitcoin)
 Bitcoin Transactions : [Transaction flow](https://www.coindesk.com/information/how-do-bitcoin-transactions-work/)
 
 ## 2.LiteCoin:
@@ -15,7 +14,6 @@ In 2009, Satoshi Nakamoto launched bitcoin as the world's first cryptocurrency. 
 
 Litecoin was announced in 2011 with the goal of being the 'silver' to bitcoin's 'gold'. At the time of writing, Litecoin  has the highest market cap of any mined cryptocurrency, after bitcoin.
 
-Platform : [Bitwala](https://www.bitwala.com/transfers)
 Source : [coindesk](https://www.coindesk.com/information/comparing-litecoin-bitcoin/)
 
 ## 3.Dash :
@@ -30,14 +28,12 @@ Bitcoin transactions also lack privacy. Data mining companies are becoming uncom
 
 As a result of these and other weaknesses, Bitcoin faces increasing barriers to market adoption and the dream of a true P2P electronic cash has been mired by endless debate and slow upgrades.
 
-Platform : [Bitwala](https://www.bitwala.com/transfers)
 Source : [coincentral](https://coincentral.com/dash-vs-bitcoin-comparison/)
 
 ## 4. Eathereum
 
 Like Bitcoin, Ethereum is a distributed public blockchain network. Although there are some significant technical differences between the two, the most important distinction to note is that Bitcoin and Ethereum differ substantially in purpose and capability. Bitcoin offers one particular application of blockchain technology, a peer to peer electronic cash system that enables online Bitcoin payments. While the Bitcoin blockchain is used to track ownership of digital currency (bitcoins), the Ethereum blockchain focuses on running the programming code of any decentralized application.
 
-Platform : [Bitwala](https://www.bitwala.com/transfers)
 Source : [blockgeeks](https://blockgeeks.com/guides/what-is-ethereum/)
 
 ## 5. Monero
@@ -50,6 +46,6 @@ Source : [coincentral](https://coincentral.com/monero-vs-bitcoin/)
 
 Bitwala => [API documentation for node client](https://github.com/bitwala/api-node-client)
 
-============================================================
-[Top 7 cryptocurrencies of 2017](https://www.coindesk.com/not-just-bitcoin-the-top-7-cryptocurrencies-all-gained-in-2016/)
-============================================================
+
+* [Top 7 cryptocurrencies of 2017](https://www.coindesk.com/not-just-bitcoin-the-top-7-cryptocurrencies-all-gained-in-2016/)
+
